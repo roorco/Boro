@@ -274,7 +274,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .thumb { display: flex; justify-content: flex-start; padding: 0; margin: auto; height: 30vh; }
 
-.cover-container { display: flex; flex-flow: row wrap; object-fit: contain; justify-content: left; margin: 7rem; }
+.cover-container { display: flex; flex-flow: row wrap; object-fit: contain; justify-content: center; margin: 7rem; margin-top: 2rem; }
 
 p { max-width: 50%; }
 
@@ -296,9 +296,9 @@ img { object-fit: contain; min-width: 100% !important; }
 
 #close { margin-top: 7.3rem; width: 1rem; height: 1rem; background-color: rgba(0, 0, 0, 0.5); border-radius: 15px; cursor: pointer; }
 
-.cls { width: 0.05rem; height: .81rem; margin-left: .5rem; margin-top: 0.09rem; background-color: white; transform: rotate(45deg); Z-index: 1; }
+.cls { width: 0.09rem; height: 1rem; margin-left: .45rem; margin-top: 0.09rem; background-color: white; transform: rotate(45deg); Z-index: 1; }
 
-.cl { width: 0.05rem; height: .81rem; background-color: white; transform: rotate(90deg); Z-index: 2; }
+.cl { width: 0.09rem; height: 1rem; background-color: white; transform: rotate(90deg); Z-index: 2; }
 
 .spacedx { padding-right: 1rem; }
 
