@@ -294,11 +294,11 @@ img { object-fit: contain; min-width: 100% !important; }
 
 .element { padding: 0 1.7rem 0 0; }
 
-#close { margin-top: 7.3rem; width: 1rem; height: 1rem; background-color: rgba(0, 0, 0, 0.5); border-radius: 15px; cursor: pointer; }
+#close { margin-top: 7.3rem; width: 1.2rem; height: 1.2rem; background-color: rgba(0, 0, 0, 0.5); border-radius: 15px; cursor: pointer; }
 
-.cls { width: 0.09rem; height: 1rem; margin-left: .45rem; margin-top: 0.09rem; background-color: white; transform: rotate(45deg); Z-index: 1; }
+.cls { width: 0.12rem; height: 1.25rem; margin-left: .54rem; background-color: white; transform: rotate(45deg); Z-index: 1; }
 
-.cl { width: 0.09rem; height: 1rem; background-color: white; transform: rotate(90deg); Z-index: 2; }
+.cl { width: 0.12rem; height: 1.25rem; background-color: white; transform: rotate(90deg); Z-index: 2; }
 
 .spacedx { padding-right: 1rem; }
 
