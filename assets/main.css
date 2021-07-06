@@ -288,7 +288,7 @@ img { object-fit: contain; min-width: 100% !important; }
 
 h1, h2, h3, .hide { font-family: "Vollkorn", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
-.element .hide { visibility: hidden; position: relative; font-weight: 600; }
+.element .hide { visibility: hidden; position: relative; }
 
 .element:hover .hide { visibility: visible; }
 
