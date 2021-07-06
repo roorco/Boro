@@ -274,11 +274,11 @@ table td { border: 1px solid #e8e8e8; }
 
 .thumb { display: flex; justify-content: flex-start; padding: 0; margin: auto; height: 30vh; }
 
-.cover-container { display: flex; flex-flow: row wrap; object-fit: contain; justify-content: center; margin: 7rem; margin-top: 2rem; }
+.cover-container { display: flex; flex-flow: row wrap; object-fit: contain; justify-content: center; margin: 7.3rem; margin-top: 2rem; }
 
 p { max-width: 50%; }
 
-.page-content { padding-top: .7%; margin-left: 7rem; margin-right: 7rem; }
+.page-content { padding-top: .7%; margin-left: 7.3rem; margin-right: 7.3rem; }
 
 .page-content > div { max-height: 70vh; max-width: 50vw; }
 
@@ -304,9 +304,9 @@ h1, h2, h3, .hide { font-family: "Vollkorn", serif, "Apple Color Emoji", "Segoe 
 
 .spacedx { padding-right: 1rem; }
 
-#page-title { align-content: flex-start; text-transform: uppercase; margin-top: 7rem; margin-left: 1rem; }
+#page-title { align-content: flex-start; text-transform: uppercase; margin-top: 7.3rem; margin-left: 1rem; font-family: "Vollkorn", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
-.page-header { display: flex; margin-left: 7rem; }
+.page-header { display: flex; margin-left: 7.3rem; }
 
 .element > a > img:hover { box-shadow: 0 0 5px rgba(33, 33, 33, 0.51); }
 
