@@ -286,6 +286,8 @@ p { max-width: 50%; }
 
 .page-content > img { min-width: 100% !important; object-fit: contain !important; }
 
+.content { font-family: "Raleway", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
 img { object-fit: contain; min-width: 100% !important; }
 
 h1, h2, h3, .hide { font-family: "Vollkorn", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
@@ -296,7 +298,7 @@ h1, h2, h3, .hide { font-family: "Vollkorn", serif, "Apple Color Emoji", "Segoe 
 
 .vimeo { padding: 75% 0 0 0; position: relative; }
 
-.element { padding: 0 1.7rem 0 0; }
+.element { padding: 1.7rem 1.7rem 0 0; }
 
 #close { margin-top: 7.3rem; width: 1.2rem; height: 1.2rem; background-color: rgba(0, 0, 0, 0.5); border-radius: 15px; cursor: pointer; }
 
