@@ -274,6 +274,8 @@ table td { border: 1px solid #e8e8e8; }
 
 .thumb { display: flex; justify-content: flex-start; padding: 0; margin: auto; height: 30vh; }
 
+.thumbnail { max-height: 40vh; display: flex; justify-content: flex-start; padding-bottom: 1rem; }
+
 .cover-container { display: flex; flex-flow: row wrap; object-fit: contain; justify-content: center; margin: 7.3rem; margin-top: 2rem; }
 
 p { max-width: 50%; }
